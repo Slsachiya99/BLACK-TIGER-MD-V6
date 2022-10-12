@@ -1,12 +1,13 @@
-# BLACK-TIGER-MD-V1
+# BLACK-TIGER-MD-V6
 SACHIYA MD WA BOT SRI LANKA 
+♲මතක තාබා ගන්න මෙම BLACK-TIGER-MD-V6 බොට් වෙ♲ SRI LAKAWA පලවෙනියට ගොඩ නැගුනූ බොට්
 
 
 
 
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+BLACK+TIGER+MD+WA+BOT.;CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+BLACK+TIGER+MD+WA+BOT+CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
 
