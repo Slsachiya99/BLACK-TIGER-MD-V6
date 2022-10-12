@@ -5,9 +5,8 @@ SACHIYA MD WA BOT SRI LANKA
 
 
 
+~*♲❃BLACK-TIGER-MD-V6❃♲*~
 
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=WELCOME+TO+BLACK+TIGER+MD+WA+BOT+CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
 
@@ -39,6 +38,7 @@ SACHIYA MD WA BOT SRI LANKA
 https://user-images.githubusercontent.com/115049370/195422779-6f43b3fb-b9c8-4329-a5ea-d75d3bb1394e.mp4
 
 
-[![Run on Repl.it][![Run on Repl.it]
+
+~*♲❃BLACK-TIGER-MD-V6❃♲*~
 
 
