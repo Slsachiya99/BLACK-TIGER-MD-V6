@@ -15,7 +15,7 @@ SACHIYA MD WA BOT SRI LANKA
 
 ### QR CODE
 
-. Click [SCAN](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-2#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+. Click [SCAN](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 
 2. Click [FORK](https://github.com/Slsachiya99/BLACK-TIGER-MD-V6/fork)
