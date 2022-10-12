@@ -1,0 +1,47 @@
+{
+
+  "name": "BLACK TIGER MD",
+
+  "description": "BLACK-TIGER-𝘔𝘋 | By: SL SACHIYA ᵀᴹ | 𝐌𝐑:𝔹𝕃𝔸ℂ𝕂❃𝕋𝕀𝔾𝔼ℝ♲𝕄𝔻❃",
+
+  "repository": "https://github.com/Slsachiya99/BLACK-TIGER-MD-V1",
+
+  "logo": "https://i.imgur.com/XHhlqtK.jpeg",
+
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+
+  "buildpacks": [
+
+    {
+
+      "url": "heroku/nodejs"
+
+    },
+
+    {
+
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+
+    },
+
+    {
+
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+
+    }
+
+  ],
+
+   "formation": {
+
+        "worker": {
+
+            "quantity": 1,
+
+            "size": "free"
+
+        }
+
+    }
+
+}
