@@ -11,10 +11,11 @@ SACHIYA MD WA BOT SRI LANKA
 <img src="https://i.imgur.com/XHhlqtK.jpeg" alt="GIF" width="700"/>
 
 </p>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=මෙ+යාලුවනෙ+ඔයාලා+යට+තියෙන+එවගෙන්+බොට්ගෙ+♲QR♲+සහා+බොට්+FORK+කර+ගන්න+ඉටපස්සෙ+BOT+ඩිවලොප්+කරගන්න+CREATED+BY+SACHIYA+TM;BEST+MULTIDEVICE+WA+BOT;THANKS+FOR+VISITING+MY+GIT+ඉතින්+කොහොමද😁+මොකද+කරන්නෙ)
 
 ### QR CODE
 
-[![Run on Repl.it]("https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-2?v=1")
+. Click [SCAN](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-2#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 
 2. Click [FORK](https://github.com/Slsachiya99/BLACK-TIGER-MD-V6/fork)
