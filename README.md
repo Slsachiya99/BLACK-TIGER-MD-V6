@@ -14,10 +14,10 @@ SACHIYA MD WA BOT SRI LANKA
 
 ### QR CODE
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@CTONLINE/ALPHA-Qr-Session?v=1)
+[![Run on Repl.it](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-2?v=1)
 
 
-2. Click [FORK](https://github.com/Slsachiya99/BLACK-TIGER-MD-V1/fork)
+2. Click [FORK](https://github.com/Slsachiya99/BLACK-TIGER-MD-V6/fork)
 
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 
