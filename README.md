@@ -14,7 +14,7 @@ SACHIYA MD WA BOT SRI LANKA
 
 ### QR CODE
 
-[![Run on Repl.it](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-2?v=1)
+[![Run on Repl.it] SLSACHIYA99 (https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-2?v=1)
 
 
 2. Click [FORK](https://github.com/Slsachiya99/BLACK-TIGER-MD-V6/fork)
