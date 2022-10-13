@@ -4,7 +4,7 @@
 
     "NUMBER" : "+94718181282",
 
-    "YT_CHANNEL" : "https://www.youtube.com/channel/UCBi1evgI3DI3pwC_H5zK0kg",
+    "YT_CHANNEL" : "🌐",
 
     "BLOCK_CHAT" : "120363043598019970@g.us",
 
