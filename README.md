@@ -1,9 +1,7 @@
 # BLACK-TIGER-MD-V6
 
 
-[![Typing SVG](SACHIYA+MD+WA+BOT+SRI+LANKA+ 
-
-~*♲මතක+තාබා+ගන්න+මෙම+BLACK+TIGER+MD+V6+බොට+වෙ♲+SRI+LAKAWA+පලවෙනියට+ගොඩ+නැගුනූ+~*♲❃BLACK+TIGER+MD+V6❃♲*~+බොට්වේ+*~
+[![Typing SVG](SACHIYA+MD+WA+BOT+SRI+LANKA+~*♲මතක+තාබා+ගන්න+මෙම+BLACK+TIGER+MD+V6+බොට+වෙ♲+SRI+LAKAWA+පලවෙනියට+ගොඩ+නැගුනූ+~*♲❃BLACK+TIGER+MD+V6❃♲*~+බොට්වේ+*~
 
 )
 
