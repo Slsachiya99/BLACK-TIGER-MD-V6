@@ -2,7 +2,7 @@
 
     "OWNER" : "SACHIYA-MD",
 
-    "NUMBER" : "+94767233346",
+    "NUMBER" : "+94718181282",
 
     "YT_CHANNEL" : "https://www.youtube.com/channel/UCBi1evgI3DI3pwC_H5zK0kg",
 
