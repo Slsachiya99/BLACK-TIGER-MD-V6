@@ -13,6 +13,8 @@
 </p>
 ##
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E13EF7&background=FF468A00&width=435&lines=SACHIYA+MD+WA+BOT+SRI+LANKA++)](https://git.io/typing-svg)
+
 ### QR CODE
 
 . Click [SCAN](https://replit.com/@Slsachiya99/BLACK-TIGER-MD-V1-3?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
