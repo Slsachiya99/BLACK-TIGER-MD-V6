@@ -116,7 +116,7 @@ global.websitex = "tiktok.com/@slsachiya1" //ur website to be displayed
 
 global.botscript = 'https://github.com/Nipuna-apps/Blue-Lione-Bot' //script link
 
-global.reactmoji = "🙄" //ur menu react emoji
+global.reactmoji = "🥵" //ur menu react emoji
 
 global.themeemoji = "😎" //ur theme emoji
 
