@@ -57,7 +57,7 @@ global.wlcm = []
 
 global.sessionName = 'session'
 
-global.prefa = ['','!','.','🐦','🐤','🗿']
+global.prefa = ['','!','.','🐦','🐤','🙄']
 
 global.sp = '♲'
 
