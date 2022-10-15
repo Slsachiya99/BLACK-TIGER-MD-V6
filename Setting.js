@@ -39,11 +39,11 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Your Number']
+global.owner = ['94767233346']
 
-global.premium = ['Your Number']
+global.premium = ['94767233346']
 
-global.ownernomer = 'Your Number'
+global.ownernomer = '94767233346'
 
 global.ownername = '🐦Star Boy Nexus'
 
